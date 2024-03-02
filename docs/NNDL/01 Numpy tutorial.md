@@ -3,7 +3,7 @@
 ## Array operations
 
 ```py
-# Import numpy
+# 1. Import numpy
 import numpy as np
 
 # 2. Create a one-dimensional array a initialized to [4,5,6], (1) print the type of a (2) print the shape of a (3) print the first element of a (value is 4)
